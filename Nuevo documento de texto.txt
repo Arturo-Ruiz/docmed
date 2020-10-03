@@ -1,0 +1,17 @@
+Nombre,
+país,
+ profesión,
+ especialidad,
+ foto,
+ teléfono.
+ Estaca 
+ barrio
+years_experience
+resumen
+ciudad
+
+consejo
+
+215.33
+203.91
+
